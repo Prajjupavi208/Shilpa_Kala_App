@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ರವಿ ನಾಯಕ್</string>
+    <string name="open_studio">ಸ್ಟುಡಿಯೋ ತೆರೆಯಿರಿ</string>
+    <string name="view_gallery">ಗ್ಯಾಲರಿ ವೀಕ್ಷಿಸಿ</string>
+    
+    <!-- Bilingual Labels (Kannada Parts) -->
+    <string name="label_artisan_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="label_village">ಗ್ರಾಮ</string>
+    <string name="label_craft_type">ಕಲೆ</string>
+    <string name="label_product_name">ಉತ್ಪನ್ನದ ಹೆಸರು</string>
+    <string name="label_product_price">ಉತ್ಪನ್ನದ ಬೆಲೆ</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_name">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_village">ದಯವಿಟ್ಟು ಗ್ರಾಮವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_craft">ದಯವಿಟ್ಟು ಕಲೆಯ ಪ್ರಕಾರವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_product">ದಯವಿಟ್ಟು ಉತ್ಪನ್ನದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="error_price">ದಯವಿಟ್ಟು ಸರಿಯಾದ ಬೆಲೆಯನ್ನು ನಮೂದಿಸಿ</string>
+
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="handmade_karnataka">ಕರ್ನಾಟಕದಲ್ಲಿ ಕೈತಯಾರಿತ</string>
+    <string name="capture_photo">ಚಿತ್ರ ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="gallery">ಗ್ಯಾಲರಿ</string>
+    <string name="back">ಹಿಂದಕ್ಕೆ</string>
+    <string name="share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="professionalize">ವೃತ್ತಿಪರಗೊಳಿಸಿ</string>
+    <string name="processing">ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿದೆ…</string>
+    <string name="heritage_branding">ಪಾರಂಪರಿಕ ಬ್ರ್ಯಾಂಡಿಂಗ್‌ಗಾಗಿ ಉತ್ಪನ್ನದ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="branding_details">ಬ್ರ್ಯಾಂಡಿಂಗ್ ವಿವರಗಳು</string>
+    <string name="material_wood">ವಸ್ತು (ಮರದ ವಿಧ)</string>
+    <string name="error_no_photo">ಯಾವುದೇ ಫೋಟೋ ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="error_decode_failed">ಚಿತ್ರವನ್ನು ಡಿಕೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="error_processing_failed">ಪ್ರಕ್ರಿಯೆ ವಿಫಲವಾಗಿದೆ: %1$s</string>
+    <string name="photo_saved">ಫೋಟೋ ಉಳಿಸಲಾಗಿದೆ ಮತ್ತು ಬ್ರ್ಯಾಂಡ್ ಮಾಡಲಾಗಿದೆ!</string>
+    <string name="waiting_permission">ಕ್ಯಾಮೆರಾ ಅನುಮತಿಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ…</string>
+    <string name="camera_permission_required">ಕ್ಯಾಮೆರಾ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ</string>
+    <string name="preview">ಮುನ್ನೋಟ</string>
+    <string name="share_whatsapp">ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="no_images">ಗ್ಯಾಲರಿಯಲ್ಲಿ ಯಾವುದೇ ಚಿತ್ರಗಳಿಲ್ಲ</string>
+    <string name="confirm_delete">ಈ ಚಿತ್ರವನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+</resources>

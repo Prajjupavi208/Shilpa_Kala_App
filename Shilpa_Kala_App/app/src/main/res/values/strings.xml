@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Shilpa Kala</string>
+    <string name="open_studio">Open Studio</string>
+    <string name="view_gallery">View Gallery</string>
+    
+    <!-- Bilingual Labels -->
+    <string name="label_artisan_name">Your Name (ನಿಮ್ಮ ಹೆಸರು)</string>
+    <string name="label_village">Village (ಗ್ರಾಮ)</string>
+    <string name="label_craft_type">Craft Type (ಕಲೆ)</string>
+    <string name="label_product_name">Product Name (ಉತ್ಪನ್ನದ ಹೆಸರು)</string>
+    <string name="label_product_price">Product Price (ಉತ್ಪನ್ನದ ಬೆಲೆ)</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_name">Please enter your name</string>
+    <string name="error_village">Please enter village</string>
+    <string name="error_craft">Please enter craft type</string>
+    <string name="error_product">Please enter product name</string>
+    <string name="error_price">Please enter valid price</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="handmade_karnataka">Handmade in Karnataka</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="professionalize">Professionalize</string>
+    <string name="processing">Processing…</string>
+    <string name="heritage_branding">Enter product info for heritage branding.</string>
+    <string name="branding_details">Branding Details</string>
+    <string name="material_wood">Material (Wood Type)</string>
+    <string name="error_no_photo">No captured photo found</string>
+    <string name="error_decode_failed">Could not decode captured image</string>
+    <string name="error_processing_failed">Processing failed: %1$s</string>
+    <string name="photo_saved">Photo Saved &amp; Branded!</string>
+    <string name="waiting_permission">Waiting for camera permission…</string>
+    <string name="camera_permission_required">Camera permission required</string>
+    <string name="preview">Preview</string>
+    <string name="share_whatsapp">Share to WhatsApp</string>
+    <string name="no_images">No images in gallery</string>
+    <string name="confirm_delete">Are you sure you want to delete this image?</string>
+</resources>
